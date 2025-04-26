@@ -69,8 +69,11 @@ Integrating frontend with backend for real-time suggestions
 pip install -r requirements.txt
 
 2. Run the Streamlit app:
+   
 streamlit run app.py
+
 Open your browser
+
 Visit http://localhost:8501 to start chatting!
 
 ## 🔗 LinkedIn Profiles
