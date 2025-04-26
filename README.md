@@ -1,13 +1,13 @@
 ### 🎓Personalized Guidance Chatbot ##
 
 ### ✨ Authors
-## Harsh Kaushik ##—  Frontend Development (Streamlit UI)
+## Harsh Kaushik —  Frontend Development (Streamlit UI)
 
-## Kartik Sharma ## — Vector Database Management  
+## Kartik Sharma  — Vector Database Management  
 
-## Krishna  Prajapati ##— Career Data Preparation 
+## Krishna Prajapati — Career Data Preparation 
 
-## Ishu Singh ##— Frontend Development (Streamlit UI)
+## Ishu Singh — Frontend Development (Streamlit UI)
 
 ### 🎓 Mentor
 ## Mrs. Ankita
@@ -61,14 +61,15 @@ Integrating frontend with backend for real-time suggestions
 ## 🖥 Installation and Setup ##
 
 1. Clone the repository:
+   
 git clone https://github.com/your-username/career-suggestion-chatbot.git
 cd career-suggestion-chatbot
 
-2. Install required packages:
+3. Install required packages:
 pip install -r requirements.txt
 Run the Streamlit app:
 
-3. streamlit run app.py
+4. streamlit run app.py
 Open your browser
 Visit http://localhost:8501 to start chatting!
 
