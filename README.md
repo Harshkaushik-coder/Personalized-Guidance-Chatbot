@@ -7,7 +7,7 @@
 ### Ishu Singh — Frontend Development (Streamlit UI)
 
 ## 🎓 Mentor
-### Mrs. Ankita
+### Ms. Ankita
 
 ## 📋 Project Overview
 This project is a Personalized Guidance Chatbot that helps users discover suitable career options based on their interests and skills.
