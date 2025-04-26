@@ -1,0 +1,15 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore environment files (if any)
+.env
+
+# Ignore Chroma vectorstore files (optional, agar aap vectorstore dobara generate karna chahte ho)
+career_db/
+
+# Ignore system-specific files
+.DS_Store
+
+# Ignore streamlit temporary files
+.streamlit/
