@@ -1,4 +1,4 @@
-## 🎓Personalized Guidance Chatbot ##
+# 🎓Personalized Guidance Chatbot 
 
 ## ✨ Authors
 ### Harsh Kaushik —  Frontend Development (Streamlit UI)
@@ -13,7 +13,7 @@
 ### Mrs. Ankita
 
 ## 📋 Project Overview
-This project is a Career Suggestion Chatbot that helps users discover suitable career options based on their interests and skills.
+This project is a Personalized Guidance Chatbot that helps users discover suitable career options based on their interests and skills.
 The system uses embeddings and a vector database to smartly match user inputs with relevant career suggestions.
 
 ## 🧠 Model / System Description
@@ -58,7 +58,7 @@ Designing retriever logic to fetch career options
 
 Integrating frontend with backend for real-time suggestions
 
-## 🖥 Installation and Setup ##
+## 🖥 Installation and Setup 
 
 1. Clone the repository:
    
@@ -76,6 +76,7 @@ Open your browser
 Visit http://localhost:8501 to start chatting!
 
 ## 🔗 LinkedIn Profiles
+
 Harsh Kaushik: https://www.linkedin.com/in/harshkaushik1/
 
 Kartik Sharma : LinkedIn Profile
@@ -88,5 +89,5 @@ Ishu Singh : LinkedIn Profile
 This project demonstrates the seamless integration of AI, Machine Learning, and Web Development to build an intelligent chatbot that suggests career options.
 Through great teamwork and strong backend-frontend collaboration, we achieved an efficient and user-friendly solution.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 Special thanks to Mrs. Ankita for her valuable guidance, encouragement, and mentorship throughout the development of this project.
