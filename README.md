@@ -1,4 +1,4 @@
-# 🎓Personalized Guidance Chatbot 
+# Personalized Guidance Chatbot 
 
 ## ✨ Authors
 ### Harsh Kaushik —  Frontend Development (Streamlit UI)
