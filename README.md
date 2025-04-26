@@ -61,17 +61,15 @@ Integrating frontend with backend for real-time suggestions
 ## 🖥 Installation and Setup 
 
 1. Clone the repository:
-   
-git clone https://github.com/your-username/career-suggestion-chatbot.git
-cd career-suggestion-chatbot
+
+   https://github.com/Harshkaushik-coder/Personalized-Guidance-Chatbot.git
 
 3. Install required packages:
    
 pip install -r requirements.txt
-Run the Streamlit app:
 
-5. streamlit run app.py
-   
+2. Run the Streamlit app:
+streamlit run app.py
 Open your browser
 Visit http://localhost:8501 to start chatting!
 
