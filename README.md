@@ -14,13 +14,13 @@ This project is a Personalized Guidance Chatbot that helps users discover suitab
 The system uses embeddings and a vector database to smartly match user inputs with relevant career suggestions.
 
 ## 🧠 Model / System Description
-The chatbot uses HuggingFace Embeddings to convert user text into vector format.
+- The chatbot uses HuggingFace Embeddings to convert user text into vector format.
+- Chroma (a vector database) is used to store career data and quickly retrieve relevant matches.
+- LangChain Retriever logic is applied to find the most accurate career suggestions.
+- GPT-2 model is used to auto-generate modern career options based on a structured text prompt.  
+  The generated careers are parsed and stored into the vector database for future retrieval.
+- Streamlit is used to build an interactive and user-friendly chat interface.
 
-Chroma (a vector database) is used to store career data and quickly retrieve relevant matches.
-
-LangChain Retriever logic is applied to find the most accurate career suggestions.
-
-Streamlit is used to build an interactive and user-friendly chat interface.
 
 ## Key technologies used:
 
