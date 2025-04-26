@@ -2,11 +2,8 @@
 
 ## ✨ Authors
 ### Harsh Kaushik —  Frontend Development (Streamlit UI)
-
 ### Kartik Sharma  — Vector Database Management  
-
 ### Krishna Prajapati — Career Data Preparation 
-
 ### Ishu Singh — Frontend Development (Streamlit UI)
 
 ## 🎓 Mentor
