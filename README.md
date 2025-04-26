@@ -61,9 +61,9 @@ Integrating frontend with backend for real-time suggestions
 
    https://github.com/Harshkaushik-coder/Personalized-Guidance-Chatbot.git
 
-3. Install required packages:
+2. Install required packages:
    
-pip install -r requirements.txt
+ pip install -r requirements.txt
 
 3. Run the Streamlit app:
 
