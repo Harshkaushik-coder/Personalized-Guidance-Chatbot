@@ -63,7 +63,7 @@ Integrating frontend with backend for real-time suggestions
 
 2. Install required packages:
    
- pip install -r requirements.txt
+   pip install -r requirements.txt
 
 3. Run the Streamlit app:
 
