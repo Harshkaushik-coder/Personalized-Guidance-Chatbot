@@ -72,9 +72,9 @@ pip install -r requirements.txt
 
    streamlit run app.py
 
- Open your browser
+   Open your browser
 
- Visit http://localhost:8501 to start chatting!
+   Visit http://localhost:8501 to start chatting!
 
 ## 🔗 LinkedIn Profiles
 
