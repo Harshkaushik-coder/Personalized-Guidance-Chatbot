@@ -1,7 +1,7 @@
 # Personalized Guidance Chatbot 
 
 ## ✨ Authors
-### Harsh Kaushik —  Frontend Development (Streamlit UI)
+### Harsh Kaushik —  Frontend Development and Backend Developer
 ### Kartik Sharma  — Vector Database Management  
 ### Krishna Prajapati — Career Data Preparation 
 ### Ishu Singh — Frontend Development (Streamlit UI)
